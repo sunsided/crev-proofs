@@ -4,7 +4,7 @@ This is a [proof repository] for [crev]. See the [Getting Started] document for 
 
 ## Using proof repositories
 
-Use `cargo crev fetch all` to periodically update all downloaded Proof Repositories.
+Use `cargo crev repo fetch all` to periodically update all downloaded Proof Repositories.
 
 To register my reviews, use
 
