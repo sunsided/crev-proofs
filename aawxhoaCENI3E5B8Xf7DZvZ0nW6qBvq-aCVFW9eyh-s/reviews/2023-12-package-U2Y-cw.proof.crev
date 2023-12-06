@@ -66,3 +66,27 @@ review:
 JMw-Gb08EopNwmrcjkMvlepW5odJxLRYuDO0HYQZFE-aYbcrf_4WpKwVtLcX_MCFDLKQiHTjyfLs52IwAY1zCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-06T21:05:05.786335374+01:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: shortguid
+  version: 0.6.0
+  revision: 5f1d1ac02dea8b8434cd849adcb3a4d0847e6de5
+  digest: TQJxGL7mHh3eQZiG_XuLef38Dmku06qITKsriyU4DsQ
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author of the shortguid crate. It contains a bit of unsafe code mimicking the uuid crate's behavior, but it is tested and fuzzed.
+----- SIGN CREV PROOF -----
+BZ44JF-UUttjPSWAAgcMs__Wi70cNdvXZlZrysDMMrct71U2mzq6y_UtKywGFZVGy-HtZFF_FO1OAArOxq4ZCg
+----- END CREV PROOF -----
+
