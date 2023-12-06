@@ -44,3 +44,25 @@ review:
 a4b_XKN_5NxftA0XIOrx1rzy5P9bhgNQwsiGawQG63y6Mj0NSB4KDdpgw1hgc2gRE03WfqOKyLPm1EncNYOoAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-06T21:00:56.375233264+01:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: tower-service
+  version: 0.3.2
+  revision: 04527aeb439761875a3e4f96d2090622731bc719
+  digest: blvOyp6EPF1e2ssC0aQfylS8y9C5CtVThJ7Xjf1REzo
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+JMw-Gb08EopNwmrcjkMvlepW5odJxLRYuDO0HYQZFE-aYbcrf_4WpKwVtLcX_MCFDLKQiHTjyfLs52IwAY1zCw
+----- END CREV PROOF -----
+
