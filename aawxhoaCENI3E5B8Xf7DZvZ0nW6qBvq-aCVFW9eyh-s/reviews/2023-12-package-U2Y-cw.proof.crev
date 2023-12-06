@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-06T20:55:48.221072404+01:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: async-tempfile
+  version: 0.4.0
+  revision: fffc1b611d90be4d696965028964bcff36e2791a
+  digest: OHLh3tSw0UiBQ4Pibqiv7FGALA5yjAhwzdBD72aOAOE
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  I am the author of the library. One caveat to be aware of is that there is no async drop support, so dropping results in a synchronous file system operation. Closing files is also not handled at the OS level so in case of double panics the file may not be deleted from disk.
+----- SIGN CREV PROOF -----
+ut3Ql93T3QVKVUpWGg8v-txJzL2M812uVMpzWDHimm5sCTiiHvuIEHyIr2LrEH6CWO3xAWm98Q99_IVE76pDAg
+----- END CREV PROOF -----
+
