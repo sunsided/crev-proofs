@@ -20,3 +20,25 @@ review:
 da5fcLw2ZcUfFWpAc5E3mi4nQAKzhoGmalDWVatuasCurOAnS17YKl9SL94yqc-9vknxpJptuYN4Nrh4aQRHAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-05-11T15:52:33.814904214+02:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: hex
+  version: 0.4.3
+  revision: b2b4370b5bf021b98ee7adc92233e8de3f2de792
+  digest: Ui4nPxq-frD0NVeuYzpB66CuSNsbnaH-diUIUeMvFFU
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+rzHgOZcCxGt9AMUmS-YQMALOclCo2_b3de1bClmr-JahnTb8c0U5xYYPXZQZgmEYaYIfnwh1wgBsBkU1hldyAg
+----- END CREV PROOF -----
+
