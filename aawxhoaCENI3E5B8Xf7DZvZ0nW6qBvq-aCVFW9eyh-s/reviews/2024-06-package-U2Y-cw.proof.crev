@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-06-30T13:29:00.677578440+02:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: accelerometer
+  version: 0.12.0
+  revision: 84ae8dcefe40e3356ad2114521bf4da27e18657d
+  digest: rcmEHIJF7rn9fu_Zy1-KD7Tjb81xF2849swtRxrtNS8
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+bRemQ5w0noYUcD23vKlLcgj72XRQ75XbYWFO2G--aiKuHROOKHUEKBz_r1ORGgZExgKfOMM7mMnpPggTdlTJAQ
+----- END CREV PROOF -----
+
