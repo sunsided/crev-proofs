@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-12-20T17:22:21.034186921+01:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: yield-now
+  version: 0.1.0
+  revision: 3182715cc1cfe2c9e4d1ff699e46766d045be61d
+  digest: b_schKU2ZJpBmSd4aChASUnIN3vsEGRbe5XkvtceDXY
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Small library with a runtime-agnostic yield implementation and support for runtime-specific yield calls. Linked of version 0.1.0 doesn't contain any code as of 2024-12-20.
+----- SIGN CREV PROOF -----
+i0PqSWf82pmE_hxV3zTdhUeZU8qEsF_9h6FkxNh5OvxH2kxmaPa6cU01oOCA-wv2goFohaETyBWTLXnOsf_zBA
+----- END CREV PROOF -----
+
