@@ -22,3 +22,27 @@ comment: |-
 -B4KkJM-kLwsws_BeBAQ5s2bU1v3UUHsZac866WI-I3uFIB8vTPWDBxrZOmYtiOrIt3NkUBSsRmcuUXwpGoZCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-02-01T17:49:53.887710377+01:00
+from:
+  id-type: crev
+  id: aawxhoaCENI3E5B8Xf7DZvZ0nW6qBvq-aCVFW9eyh-s
+  url: https://github.com/sunsided/crev-proofs
+package:
+  source: https://crates.io
+  name: tower-service
+  version: 0.3.3
+  revision: 646804d77eebf072dac180cb5e1256b9ee7e0229
+  digest: MTvHbOMm2f4LPKde-rlVSFvRd3x_h4To4WmQKAHOs5g
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  A single trait and two implementations for &mut and Box.
+----- SIGN CREV PROOF -----
+GXgkrcRuBkVK_4LdyH363QAKbUI5gCxHGG_JXY8k39F-Ipd_s8V8nSjHuLQgrCb2w9Vjde_LGjY8nyyjF4d6Ag
+----- END CREV PROOF -----
+
